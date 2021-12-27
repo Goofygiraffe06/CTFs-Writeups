@@ -19,7 +19,7 @@ There are only two ports open in the web server running on the port 80 and ssh o
 - In /etc/passwd you can find a user and password
 > username - falconfeast
 
-> password - rootpassword
+> password - xxxxxxxxxxxx
 - Login using the credentials via ssh
 
 ## Exploitation ##
