@@ -1,4 +1,4 @@
-# AgentSudo
+# Agent Sudo
 You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth.
 
 ## Nmap Scan
