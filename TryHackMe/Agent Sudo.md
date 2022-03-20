@@ -1,6 +1,6 @@
 # Agent Sudo
 You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth.
-
+[Join the room here](https://tryhackme.com/room/agentsudoctf)
 ## Nmap Scan
 ```
 PORT   STATE SERVICE
